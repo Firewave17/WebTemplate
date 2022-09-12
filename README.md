@@ -1,6 +1,6 @@
 # Web App Template
 
-Use this to simplify starting a new project.
+Use this to simplify starting a new project
 
 ### Vue
 - This template uses Vue, a reactive web interface
