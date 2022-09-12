@@ -5,7 +5,7 @@
 - Documentation/tutorial: https://vuejs.org/
 
 ### Less
-- Less is an extension for css that makes it much less stupid
+- Less is an extension for css that makes it much _less_ stupid (lol)
 - Watch-Compiler: Downloaf less-watch-compiler and type `less-watch-compiler` into the console (any changes to the less file will be automatically applied to css file)
 - Documentation/tutorial: https://lesscss.org
 
