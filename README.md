@@ -13,5 +13,6 @@
 - Node is a server thingy
 - Downloaf node and use npm to get packages
 - Run server: `node server.js`
+- Access page with server running: `localhost:####` (port number default: 8192)
 - Express: `npm install express`
 - Websockets: `npm install ws`
