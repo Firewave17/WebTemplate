@@ -6,7 +6,7 @@
 
 ### Less
 - Less is an extension for css that makes it much less stupid
-- Watch-Compiler: Downloaf "less-watch-compiler" and type `less-watch-compiler` into the console (any changes to the less file will be automatically applied to css file)
+- Watch-Compiler: Downloaf less-watch-compiler and type `less-watch-compiler` into the console (any changes to the less file will be automatically applied to css file)
 - Documentation/tutorial: https://lesscss.org
 
 ### Node
