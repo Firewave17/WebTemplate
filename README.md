@@ -1,4 +1,4 @@
-# Web Template
+# Web App Template
 
 ### Vue
 - This template uses Vue, a reactive web interface
